@@ -1,4 +1,4 @@
-[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)]
+![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
 <h1 align="center">Hi 👋, I'm Elisabet</h1>
 <h3 align="center">A Backend developer from Spain</h3>
 
