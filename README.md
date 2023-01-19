@@ -1,6 +1,6 @@
 ![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
 <h1 align="center">Hi 👋, I'm Elisabet</h1>
-<h3 align="center">A Backend developer from Spain</h3>
+<h3 align="center">A Full Stack developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elirv&label=Profile%20views&color=0e75b6&style=flat" alt="elirv" /> </p>
 
